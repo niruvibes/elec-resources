@@ -1,0 +1,15 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 80 32 -80 -32
+PIN -80 -16 LEFT 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN -80 16 LEFT 8
+PINATTR PinName B
+PINATTR SpiceOrder 2
+PIN 80 -16 RIGHT 8
+PINATTR PinName Sum
+PINATTR SpiceOrder 4
+PIN 80 16 RIGHT 8
+PINATTR PinName Carry_o
+PINATTR SpiceOrder 5
