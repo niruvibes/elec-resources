@@ -1,0 +1,14 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -16 23 -16 -24
+LINE Normal 32 0 -16 23
+LINE Normal -16 -24 32 0
+LINE Normal 40 0 48 0
+LINE Normal -32 0 -16 0
+CIRCLE Normal 40 4 32 -4
+PIN -32 0 NONE 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN 48 0 NONE 8
+PINATTR PinName Y
+PINATTR SpiceOrder 2
